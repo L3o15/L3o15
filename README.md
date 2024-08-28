@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi, I'm Leonardo Orizio!
+
+- 🎓 Recently graduated from IIS Castelli in Brescia with top honors (100/100 cum laude).
+- 📚 Currently studying Information Engineering at the University of Brescia.
+- 🏆 Achieved 2nd place in a national computer science competition.
+- 💻 Passionate about technology and programming, eager to learn and contribute to the field of information engineering.
 
 <!--
 **L3o15/L3o15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
